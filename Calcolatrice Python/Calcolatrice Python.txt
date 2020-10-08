@@ -2,7 +2,7 @@ while True:
 
   print('''
   Benvenuto al programma Calcolatrice!
-  Creata da: Rino
+  Creata da: d678h
   Di seguito un elenco delle varie funzioni disponibili:
   
   -Per effettuare un'Addizione, seleziona 1;
